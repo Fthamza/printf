@@ -10,7 +10,7 @@ Print ARGUMENT(s) according to FORMAT:
 
 \\"     double quote.
 
-\\\\     backslash.
+\\\\     Backslash.
 
 \\n     new line.
 

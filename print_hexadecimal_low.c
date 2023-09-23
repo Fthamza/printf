@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_hexadecimal_low - Print a number in hexadecimal format...
+ * print_hexadecimal_low - Print the number in hexadecimal format...
  * @list: Number to print
  *
  * Return: Length of the number

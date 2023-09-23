@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_octal - Print a unsigned octal...
+ * print_octal - Print a unsigned octal (base8)
  * @list: Number to print
  *
  * Return: Length of the number

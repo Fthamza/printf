@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_integer - Print a number in base 10
+ * print_integer - Print the number in base 10
  * @list: Number to print in base 10
  *
  * Return: Length of th numbers in decimal...
